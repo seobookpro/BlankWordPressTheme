@@ -1,0 +1,2 @@
+# BlankWordPressTheme
+Blank WordPress Theme
